@@ -1,0 +1,732 @@
+BUS UID,Fuel,GEN UID,Plant Code,Unit Type,CO2 Emissions Lbs/MWh
+111218_1,NUC (Nuclear),6251_Nuclear_2,6251,Nuclear,0.0
+111217_1,NUC (Nuclear),6251_Nuclear_1,6251,Nuclear,0.0
+150441_1,NUC (Nuclear),6145_Nuclear_1,6145,Nuclear,0.0
+150442_1,NUC (Nuclear),6145_Nuclear_2,6145,Nuclear,0.0
+210334_1,SUB (Subbituminous Coal),56611_ConventionalSteamCoal_S01,56611,Conventional Steam Coal,2031.7766274674600
+230259_1,SUB (Subbituminous Coal),298_ConventionalSteamCoal_2,298,Conventional Steam Coal,2308.752773115980
+230272_1,LIG (Lignite Coal),6180_ConventionalSteamCoal_OG2,6180,Conventional Steam Coal,2169.1571494636200
+230271_1,LIG (Lignite Coal),6180_ConventionalSteamCoal_OG1,6180,Conventional Steam Coal,2169.1571494636200
+230260_1,SUB (Subbituminous Coal),298_ConventionalSteamCoal_1,298,Conventional Steam Coal,2308.752773115980
+250359_1,LIG (Lignite Coal),6146_ConventionalSteamCoal_2,6146,Conventional Steam Coal,2449.1776278020200
+250360_1,LIG (Lignite Coal),6146_ConventionalSteamCoal_3,6146,Conventional Steam Coal,2449.1776278020200
+250358_1,LIG (Lignite Coal),6146_ConventionalSteamCoal_1,6146,Conventional Steam Coal,2449.1776278020200
+120469_1,SUB (Subbituminous Coal),7097_ConventionalSteamCoal_2,7097,Conventional Steam Coal,2160.2794702603700
+111180_1,NG (Natural Gas),3460_NaturalGasSteamTurbine_1,3460,Natural Gas Steam Turbine,1318.4886054991800
+111181_1,NG (Natural Gas),3460_NaturalGasSteamTurbine_2,3460,Natural Gas Steam Turbine,1318.4886054991800
+111208_1,SUB (Subbituminous Coal),3470_ConventionalSteamCoal_5,3470,Conventional Steam Coal,2288.2066166956400
+111209_1,SUB (Subbituminous Coal),3470_ConventionalSteamCoal_6,3470,Conventional Steam Coal,2288.2066166956400
+160210_1,SUB (Subbituminous Coal),6178_ConventionalSteamCoal_1,6178,Conventional Steam Coal,2203.1307856194300
+230264_1,SUB (Subbituminous Coal),6179_ConventionalSteamCoal_1,6179,Conventional Steam Coal,2240.576410030400
+230265_1,SUB (Subbituminous Coal),6179_ConventionalSteamCoal_2,6179,Conventional Steam Coal,2240.576410030400
+120470_1,SUB (Subbituminous Coal),7097_ConventionalSteamCoal_1,7097,Conventional Steam Coal,2160.2794702603700
+111212_2,NG (Natural Gas),3470_NaturalGasSteamTurbine_4,3470,Natural Gas Steam Turbine,1262.4217877233500
+130351_1,NG (Natural Gas),3453_NaturalGasSteamTurbine_8,3453,Natural Gas Steam Turbine,1484.3167782942300
+170518_1,NG (Natural Gas),3452_NaturalGasSteamTurbine_2,3452,Natural Gas Steam Turbine,1415.072842920540
+111390_1,NG (Natural Gas),60122_NaturalGasFiredCombinedCycle_STG9,60122,Natural Gas Fired Combined Cycle,800.2011277886590
+250347_1,NG (Natural Gas),3504_NaturalGasSteamTurbine_ST2,3504,Natural Gas Steam Turbine,1519.388611035810
+150431_1,NG (Natural Gas),3491_NaturalGasSteamTurbine_4,3491,Natural Gas Steam Turbine,1591.776478853510
+120463_1,SUB (Subbituminous Coal),6181_ConventionalSteamCoal_1,6181,Conventional Steam Coal,2338.085512618570
+120439_1,NG (Natural Gas),3611_NaturalGasSteamTurbine_2,3611,Natural Gas Steam Turbine,1392.422590260230
+130360_1,NG (Natural Gas),55480_NaturalGasFiredCombinedCycle_ST2,55480,Natural Gas Fired Combined Cycle,852.6020305821020
+150433_1,NG (Natural Gas),3491_NaturalGasSteamTurbine_3,3491,Natural Gas Steam Turbine,1591.776478853510
+120467_1,LIG (Lignite Coal),6183_ConventionalSteamCoal_1,6183,Conventional Steam Coal,2771.5079473028300
+170519_1,NG (Natural Gas),3452_NaturalGasSteamTurbine_1,3452,Natural Gas Steam Turbine,1415.072842920540
+120438_1,NG (Natural Gas),3611_NaturalGasSteamTurbine_1,3611,Natural Gas Steam Turbine,1392.422590260230
+130359_1,NG (Natural Gas),55480_NaturalGasFiredCombinedCycle_ST1,55480,Natural Gas Fired Combined Cycle,852.6020305821020
+190196_1,WND (Wind),61402_OnshoreWindTurbine_FOARD,61402,Onshore Wind Turbine,0.0
+230284_1,NG (Natural Gas),55062_NaturalGasFiredCombinedCycle_STG1,55062,Natural Gas Fired Combined Cycle,832.7969290736730
+111392_1,NG (Natural Gas),60122_NaturalGasFiredCombinedCycle_CT8,60122,Natural Gas Fired Combined Cycle,800.2011277886590
+150525_1,NG (Natural Gas),59812_NaturalGasFiredCombinedCycle_CGT5,59812,Natural Gas Fired Combined Cycle,828.1408474079150
+150524_1,NG (Natural Gas),59812_NaturalGasFiredCombinedCycle_CGT4,59812,Natural Gas Fired Combined Cycle,828.1408474079150
+160189_1,NG (Natural Gas),3441_NaturalGasFiredCombinedCycle_7,3441,Natural Gas Fired Combined Cycle,883.4736207170220
+210336_1,NG (Natural Gas),58001_NaturalGasFiredCombinedCycle_STG-1,58001,Natural Gas Fired Combined Cycle,848.1892185919150
+160301_1,WND (Wind),61343_OnshoreWindTurbine_WT1,61343,Onshore Wind Turbine,0.0
+240317_1,WND (Wind),62038_OnshoreWindTurbine_STRAE,62038,Onshore Wind Turbine,0.0
+120444_1,NG (Natural Gas),3612_NaturalGasSteamTurbine_3,3612,Natural Gas Steam Turbine,1336.7747387067100
+190201_1,WND (Wind),61921_OnshoreWindTurbine_TAH,61921,Onshore Wind Turbine,0.0
+160208_1,NG (Natural Gas),4939_NaturalGasSteamTurbine_1,4939,Natural Gas Steam Turbine,932.4778302315890
+190172_1,WND (Wind),60087_OnshoreWindTurbine_SPII,60087,Onshore Wind Turbine,0.0
+240320_1,WND (Wind),62259_OnshoreWindTurbine_RAN,62259,Onshore Wind Turbine,0.0
+180140_1,WND (Wind),61969_OnshoreWindTurbine_TWE,61969,Onshore Wind Turbine,0.0
+240304_1,WND (Wind),60987_OnshoreWindTurbine_GEN1,60987,Onshore Wind Turbine,0.0
+190165_1,WND (Wind),59621_OnshoreWindTurbine_JRWND,59621,Onshore Wind Turbine,0.0
+240221_1,WND (Wind),56291_OnshoreWindTurbine_3,56291,Onshore Wind Turbine,0.0
+150428_1,NG (Natural Gas),3490_NaturalGasSteamTurbine_2,3490,Natural Gas Steam Turbine,1385.3201901125900
+270207_1,NG (Natural Gas),55137_NaturalGasFiredCombinedCycle_STG1,55137,Natural Gas Fired Combined Cycle,838.862810071475
+150482_1,NG (Natural Gas),55230_NaturalGasFiredCombinedCycle_ST2,55230,Natural Gas Fired Combined Cycle,863.9534000626590
+190139_1,WND (Wind),58765_OnshoreWindTurbine_1,58765,Onshore Wind Turbine,0.0
+160263_1,WND (Wind),56661_OnshoreWindTurbine_1,56661,Onshore Wind Turbine,0.0
+220149_1,WND (Wind),55581_OnshoreWindTurbine_EXIS,55581,Onshore Wind Turbine,0.0
+111213_1,NG (Natural Gas),3470_NaturalGasSteamTurbine_3,3470,Natural Gas Steam Turbine,1262.4217877233500
+140308_1,NG (Natural Gas),3548_NaturalGasSteamTurbine_2,3548,Natural Gas Steam Turbine,1392.6550016981400
+260212_1,NG (Natural Gas),55091_NaturalGasFiredCombinedCycle_STK5,55091,Natural Gas Fired Combined Cycle,899.2126309111640
+260210_1,NG (Natural Gas),55091_NaturalGasFiredCombinedCycle_STK3,55091,Natural Gas Fired Combined Cycle,899.2126309111640
+260211_1,NG (Natural Gas),55091_NaturalGasFiredCombinedCycle_STK4,55091,Natural Gas Fired Combined Cycle,899.2126309111640
+190142_1,WND (Wind),58766_OnshoreWindTurbine_1,58766,Onshore Wind Turbine,0.0
+190193_1,WND (Wind),60902_OnshoreWindTurbine_DERM,60902,Onshore Wind Turbine,0.0
+200179_1,WND (Wind),57617_OnshoreWindTurbine_GEN1,57617,Onshore Wind Turbine,0.0
+240301_1,WND (Wind),60901_OnshoreWindTurbine_WSPWF,60901,Onshore Wind Turbine,0.0
+220250_1,SUN (Solar),61906_SolarPhotovoltaic_PHOEB,61906,Solar Photovoltaic,0.0
+180131_1,WND (Wind),60104_OnshoreWindTurbine_GEWTG,60104,Onshore Wind Turbine,0.0
+240278_2,WND (Wind),56981_OnshoreWindTurbine_1,56981,Onshore Wind Turbine,0.0
+160291_1,WND (Wind),59193_OnshoreWindTurbine_CHA1,59193,Onshore Wind Turbine,0.0
+240228_1,WND (Wind),56337_OnshoreWindTurbine_SW4,56337,Onshore Wind Turbine,0.0
+180137_1,WND (Wind),61865_OnshoreWindTurbine_1,61865,Onshore Wind Turbine,0.0
+240239_1,WND (Wind),56484_OnshoreWindTurbine_1,56484,Onshore Wind Turbine,0.0
+190155_1,WND (Wind),59005_OnshoreWindTurbine_01-Mar,59005,Onshore Wind Turbine,0.0
+150528_1,WND (Wind),60338_OnshoreWindTurbine_EWF,60338,Onshore Wind Turbine,0.0
+240293_1,WND (Wind),60339_OnshoreWindTurbine_HCWF,60339,Onshore Wind Turbine,0.0
+200189_1,WND (Wind),59066_OnshoreWindTurbine_MVII,59066,Onshore Wind Turbine,0.0
+160286_1,WND (Wind),58614_OnshoreWindTurbine_PAT1,58614,Onshore Wind Turbine,0.0
+150499_1,WND (Wind),57520_OnshoreWindTurbine_1,57520,Onshore Wind Turbine,0.0
+150489_1,NG (Natural Gas),55320_NaturalGasFiredCombinedCycle_GT1,55320,Natural Gas Fired Combined Cycle,853.3723845189640
+240222_1,WND (Wind),56291_OnshoreWindTurbine_2,56291,Onshore Wind Turbine,0.0
+210337_1,NG (Natural Gas),58001_NaturalGasFiredCombinedCycle_STG-2,58001,Natural Gas Fired Combined Cycle,848.1892185919150
+200168_1,NG (Natural Gas),55123_NaturalGasFiredCombinedCycle_CTG1,55123,Natural Gas Fired Combined Cycle,856.5869678880090
+200169_1,NG (Natural Gas),55123_NaturalGasFiredCombinedCycle_CTG2,55123,Natural Gas Fired Combined Cycle,856.5869678880090
+190129_1,WND (Wind),58242_OnshoreWindTurbine_1,58242,Onshore Wind Turbine,0.0
+240258_1,WND (Wind),56763_OnshoreWindTurbine_2,56763,Onshore Wind Turbine,0.0
+240223_1,WND (Wind),56291_OnshoreWindTurbine_1,56291,Onshore Wind Turbine,0.0
+150477_1,NG (Natural Gas),55139_NaturalGasFiredCombinedCycle_CTG1,55139,Natural Gas Fired Combined Cycle,895.2716193969870
+220209_1,WND (Wind),59332_OnshoreWindTurbine_MSCRK,59332,Onshore Wind Turbine,0.0
+190132_1,WND (Wind),58596_OnshoreWindTurbine_GRVWI,58596,Onshore Wind Turbine,0.0
+190123_1,WND (Wind),57983_OnshoreWindTurbine_1,57983,Onshore Wind Turbine,0.0
+210339_1,NG (Natural Gas),58001_NaturalGasFiredCombinedCycle_CTG-2,58001,Natural Gas Fired Combined Cycle,848.1892185919150
+140309_1,NG (Natural Gas),3548_NaturalGasSteamTurbine_1,3548,Natural Gas Steam Turbine,1392.6550016981400
+190209_1,WND (Wind),63030_OnshoreWindTurbine_CBRKS,63030,Onshore Wind Turbine,0.0
+270214_1,NG (Natural Gas),55144_NaturalGasFiredCombinedCycle_U3,55144,Natural Gas Fired Combined Cycle,895.7279129464840
+240244_1,WND (Wind),56593_OnshoreWindTurbine_RO1,56593,Onshore Wind Turbine,0.0
+260208_1,NG (Natural Gas),55091_NaturalGasFiredCombinedCycle_STK1,55091,Natural Gas Fired Combined Cycle,899.2126309111640
+220214_1,WND (Wind),59943_OnshoreWindTurbine_1,59943,Onshore Wind Turbine,0.0
+220142_1,NG (Natural Gas),55215_NaturalGasFiredCombinedCycle_STG1,55215,Natural Gas Fired Combined Cycle,830.6789607640070
+220143_1,NG (Natural Gas),55215_NaturalGasFiredCombinedCycle_STG2,55215,Natural Gas Fired Combined Cycle,830.6789607640070
+170550_1,NG (Natural Gas),55097_NaturalGasFiredCombinedCycle_STG1,55097,Natural Gas Fired Combined Cycle,833.8917064786300
+150515_1,WND (Wind),59034_OnshoreWindTurbine_SHAN1,59034,Onshore Wind Turbine,0.0
+200186_1,WND (Wind),57802_OnshoreWindTurbine_MV1,57802,Onshore Wind Turbine,0.0
+220222_1,SUN (Solar),60044_SolarPhotovoltaic_BKTH1,60044,Solar Photovoltaic,0.0
+200184_1,WND (Wind),57752_OnshoreWindTurbine_1,57752,Onshore Wind Turbine,0.0
+160270_1,WND (Wind),56795_OnshoreWindTurbine_1,56795,Onshore Wind Turbine,0.0
+160288_1,WND (Wind),59063_OnshoreWindTurbine_WT1,59063,Onshore Wind Turbine,0.0
+160275_1,WND (Wind),57095_OnshoreWindTurbine_1,57095,Onshore Wind Turbine,0.0
+190206_1,WND (Wind),62566_OnshoreWindTurbine_BS3,62566,Onshore Wind Turbine,0.0
+210349_1,WND (Wind),59442_OnshoreWindTurbine_1,59442,Onshore Wind Turbine,0.0
+160278_1,WND (Wind),57212_OnshoreWindTurbine_1,57212,Onshore Wind Turbine,0.0
+190162_1,WND (Wind),59384_OnshoreWindTurbine_1,59384,Onshore Wind Turbine,0.0
+190145_1,WND (Wind),58772_OnshoreWindTurbine_GEN1,58772,Onshore Wind Turbine,0.0
+180143_1,WND (Wind),62258_OnshoreWindTurbine_MES,62258,Onshore Wind Turbine,0.0
+190147_1,WND (Wind),58773_OnshoreWindTurbine_GEN1,58773,Onshore Wind Turbine,0.0
+180123_1,WND (Wind),59320_OnshoreWindTurbine_GEN1,59320,Onshore Wind Turbine,0.0
+210354_1,WND (Wind),61212_OnshoreWindTurbine_FTWI,61212,Onshore Wind Turbine,0.0
+150437_1,NG (Natural Gas),3628_NaturalGasSteamTurbine_3,3628,Natural Gas Steam Turbine,1527.5860032322700
+240233_1,WND (Wind),56395_OnshoreWindTurbine_1,56395,Onshore Wind Turbine,0.0
+200181_1,WND (Wind),57751_OnshoreWindTurbine_1,57751,Onshore Wind Turbine,0.0
+190157_1,WND (Wind),59068_OnshoreWindTurbine_GVII,59068,Onshore Wind Turbine,0.0
+240236_1,WND (Wind),56483_OnshoreWindTurbine_1,56483,Onshore Wind Turbine,0.0
+180134_1,WND (Wind),60645_OnshoreWindTurbine_WJ21,60645,Onshore Wind Turbine,0.0
+180126_1,WND (Wind),59321_OnshoreWindTurbine_GEN1,59321,Onshore Wind Turbine,0.0
+240312_1,WND (Wind),61782_OnshoreWindTurbine_WTGS,61782,Onshore Wind Turbine,0.0
+240275_1,WND (Wind),56979_OnshoreWindTurbine_1,56979,Onshore Wind Turbine,0.0
+150429_1,NG (Natural Gas),3490_NaturalGasSteamTurbine_1,3490,Natural Gas Steam Turbine,1385.3201901125900
+270218_1,NG (Natural Gas),55153_NaturalGasFiredCombinedCycle_STG2,55153,Natural Gas Fired Combined Cycle,831.1875798072930
+240280_2,WND (Wind),56984_OnshoreWindTurbine_1,56984,Onshore Wind Turbine,0.0
+220216_1,WND (Wind),59972_OnshoreWindTurbine_BRKAT,59972,Onshore Wind Turbine,0.0
+260209_1,NG (Natural Gas),55091_NaturalGasFiredCombinedCycle_STK2,55091,Natural Gas Fired Combined Cycle,899.2126309111640
+150476_1,NG (Natural Gas),55139_NaturalGasFiredCombinedCycle_ST,55139,Natural Gas Fired Combined Cycle,895.2716193969870
+190152_1,WND (Wind),58775_OnshoreWindTurbine_GEN1,58775,Onshore Wind Turbine,0.0
+111339_1,NG (Natural Gas),55357_NaturalGasFiredCombinedCycle_STG1,55357,Natural Gas Fired Combined Cycle,870.7429128480550
+120472_1,NG (Natural Gas),7512_NaturalGasFiredCombinedCycle_3,7512,Natural Gas Fired Combined Cycle,830.9255482066470
+160281_1,WND (Wind),57927_OnshoreWindTurbine_1,57927,Onshore Wind Turbine,0.0
+240259_1,WND (Wind),56763_OnshoreWindTurbine_3,56763,Onshore Wind Turbine,0.0
+111326_1,NG (Natural Gas),55299_NaturalGasFiredCombinedCycle_CTG2,55299,Natural Gas Fired Combined Cycle,1140.8149814586700
+111325_1,NG (Natural Gas),55299_NaturalGasFiredCombinedCycle_CTG1,55299,Natural Gas Fired Combined Cycle,1140.8149814586700
+150552_1,WND (Wind),62356_OnshoreWindTurbine_LOC,62356,Onshore Wind Turbine,0.0
+111327_1,NG (Natural Gas),55299_NaturalGasFiredCombinedCycle_CTG3,55299,Natural Gas Fired Combined Cycle,1140.8149814586700
+220245_1,SUN (Solar),61368_SolarPhotovoltaic_PV1,61368,Solar Photovoltaic,0.0
+190136_1,WND (Wind),58720_OnshoreWindTurbine_1,58720,Onshore Wind Turbine,0.0
+111391_1,NG (Natural Gas),60122_NaturalGasFiredCombinedCycle_CT7,60122,Natural Gas Fired Combined Cycle,800.2011277886590
+120445_1,NG (Natural Gas),3612_NaturalGasSteamTurbine_2,3612,Natural Gas Steam Turbine,1336.7747387067100
+210327_1,NG (Natural Gas),55172_NaturalGasFiredCombinedCycle_ST-5,55172,Natural Gas Fired Combined Cycle,820.7693901397300
+140335_1,NG (Natural Gas),4937_NaturalGasFiredCombinedCycle_STG,4937,Natural Gas Fired Combined Cycle,790.5038820774780
+160273_1,WND (Wind),56983_OnshoreWindTurbine_1,56983,Onshore Wind Turbine,0.0
+190120_1,WND (Wind),56956_OnshoreWindTurbine_1,56956,Onshore Wind Turbine,0.0
+220225_2,SUN (Solar),60123_SolarPhotovoltaic_CGAP,60123,Solar Photovoltaic,0.0
+250367_1,NG (Natural Gas),55226_NaturalGasFiredCombinedCycle_ST3,55226,Natural Gas Fired Combined Cycle,838.4967365938270
+150488_1,NG (Natural Gas),55320_NaturalGasFiredCombinedCycle_ST1,55320,Natural Gas Fired Combined Cycle,853.3723845189640
+250354_1,NG (Natural Gas),3507_NaturalGasSteamTurbine_6,3507,Natural Gas Steam Turbine,1475.9616189216300
+111334_1,NG (Natural Gas),55327_NaturalGasFiredCombinedCycle_CTG1,55327,Natural Gas Fired Combined Cycle,946.3876846156430
+111324_1,NG (Natural Gas),55299_NaturalGasFiredCombinedCycle_ST-1,55299,Natural Gas Fired Combined Cycle,1140.8149814586700
+190185_1,WND (Wind),60657_OnshoreWindTurbine_GEN1,60657,Onshore Wind Turbine,0.0
+140357_1,NG (Natural Gas),55154_NaturalGasFiredCombinedCycle_ST,55154,Natural Gas Fired Combined Cycle,853.0161777560590
+111372_1,NG (Natural Gas),56806_NaturalGasFiredCombinedCycle_4,56806,Natural Gas Fired Combined Cycle,904.7856184821290
+240248_1,WND (Wind),56638_OnshoreWindTurbine_GEN1,56638,Onshore Wind Turbine,0.0
+111351_1,NG (Natural Gas),55464_NaturalGasFiredCombinedCycle_CTG4,55464,Natural Gas Fired Combined Cycle,1227.253239819680
+240266_1,WND (Wind),56774_OnshoreWindTurbine_1,56774,Onshore Wind Turbine,0.0
+140359_1,NG (Natural Gas),55154_NaturalGasFiredCombinedCycle_CTB,55154,Natural Gas Fired Combined Cycle,853.0161777560590
+111215_1,NG (Natural Gas),3470_NaturalGasSteamTurbine_2,3470,Natural Gas Steam Turbine,1262.4217877233500
+111214_1,NG (Natural Gas),3470_NaturalGasSteamTurbine_1,3470,Natural Gas Steam Turbine,1262.4217877233500
+220159_1,WND (Wind),55992_OnshoreWindTurbine_1,55992,Onshore Wind Turbine,0.0
+250348_1,NG (Natural Gas),3504_NaturalGasSteamTurbine_ST1,3504,Natural Gas Steam Turbine,1519.388611035810
+111341_1,NG (Natural Gas),55357_NaturalGasFiredCombinedCycle_CTG2,55357,Natural Gas Fired Combined Cycle,870.7429128480550
+190124_1,WND (Wind),57983_OnshoreWindTurbine_2,57983,Onshore Wind Turbine,0.0
+111373_1,NG (Natural Gas),56806_NaturalGasFiredCombinedCycle_41,56806,Natural Gas Fired Combined Cycle,904.7856184821290
+111315_1,NG (Natural Gas),55047_NaturalGasFiredCombinedCycle_STG2,55047,Natural Gas Fired Combined Cycle,887.6618692917330
+111314_1,NG (Natural Gas),55047_NaturalGasFiredCombinedCycle_CTG3,55047,Natural Gas Fired Combined Cycle,887.6618692917330
+150483_1,NG (Natural Gas),55230_NaturalGasFiredCombinedCycle_CT1,55230,Natural Gas Fired Combined Cycle,863.9534000626590
+111313_1,NG (Natural Gas),55047_NaturalGasFiredCombinedCycle_CTG2,55047,Natural Gas Fired Combined Cycle,887.6618692917330
+200192_1,WND (Wind),59118_OnshoreWindTurbine_CAM1,59118,Onshore Wind Turbine,0.0
+120474_1,NG (Natural Gas),7512_NaturalGasFiredCombinedCycle_2,7512,Natural Gas Fired Combined Cycle,830.9255482066470
+111320_1,NG (Natural Gas),55187_NaturalGasFiredCombinedCycle_GT3,55187,Natural Gas Fired Combined Cycle,1235.0748898652200
+190190_1,WND (Wind),60856_OnshoreWindTurbine_ASTRA,60856,Onshore Wind Turbine,0.0
+150462_1,NG (Natural Gas),54817_NaturalGasFiredCombinedCycle_GT-1,54817,Natural Gas Fired Combined Cycle,951.851679779604
+160303_1,WND (Wind),61776_OnshoreWindTurbine_MIDWY,61776,Onshore Wind Turbine,0.0
+240272_1,WND (Wind),56823_OnshoreWindTurbine_HWFG1,56823,Onshore Wind Turbine,0.0
+111319_1,NG (Natural Gas),55187_NaturalGasFiredCombinedCycle_GT2,55187,Natural Gas Fired Combined Cycle,1235.0748898652200
+220144_1,NG (Natural Gas),55215_NaturalGasFiredCombinedCycle_CTG1,55215,Natural Gas Fired Combined Cycle,830.6789607640070
+140339_1,NG (Natural Gas),7900_NaturalGasFiredCombinedCycle_5A,7900,Natural Gas Fired Combined Cycle,967.9424243172340
+190149_1,WND (Wind),58774_OnshoreWindTurbine_GEN1,58774,Onshore Wind Turbine,0.0
+170555_1,NG (Natural Gas),55097_NaturalGasFiredCombinedCycle_CTG4,55097,Natural Gas Fired Combined Cycle,833.8917064786300
+150502_1,WND (Wind),57974_OnshoreWindTurbine_GEN1,57974,Onshore Wind Turbine,0.0
+270212_1,NG (Natural Gas),55144_NaturalGasFiredCombinedCycle_U1,55144,Natural Gas Fired Combined Cycle,895.7279129464840
+190106_1,WND (Wind),56111_OnshoreWindTurbine_GEN1,56111,Onshore Wind Turbine,0.0
+240296_1,WND (Wind),60743_OnshoreWindTurbine_WT1,60743,Onshore Wind Turbine,0.0
+130365_1,NG (Natural Gas),55480_NaturalGasFiredCombinedCycle_U6,55480,Natural Gas Fired Combined Cycle,852.6020305821020
+130363_1,NG (Natural Gas),55480_NaturalGasFiredCombinedCycle_U5,55480,Natural Gas Fired Combined Cycle,852.6020305821020
+130362_1,NG (Natural Gas),55480_NaturalGasFiredCombinedCycle_U3,55480,Natural Gas Fired Combined Cycle,852.6020305821020
+190198_1,WND (Wind),61417_OnshoreWindTurbine_GCWF,61417,Onshore Wind Turbine,0.0
+120473_1,NG (Natural Gas),7512_NaturalGasFiredCombinedCycle_1,7512,Natural Gas Fired Combined Cycle,830.9255482066470
+220219_1,SUN (Solar),59994_SolarPhotovoltaic_ROSEK,59994,Solar Photovoltaic,0.0
+160206_1,NG (Natural Gas),4939_NaturalGasFiredCombinedCycle_3,4939,Natural Gas Fired Combined Cycle,932.4778302315890
+160190_1,NG (Natural Gas),3441_NaturalGasFiredCombinedCycle_8,3441,Natural Gas Fired Combined Cycle,883.4736207170220
+160191_1,NG (Natural Gas),3441_NaturalGasFiredCombinedCycle_9,3441,Natural Gas Fired Combined Cycle,883.4736207170220
+160207_1,NG (Natural Gas),4939_NaturalGasFiredCombinedCycle_4,4939,Natural Gas Fired Combined Cycle,932.4778302315890
+190159_1,WND (Wind),59245_OnshoreWindTurbine_FLUV1,59245,Onshore Wind Turbine,0.0
+230286_1,NG (Natural Gas),55062_NaturalGasFiredCombinedCycle_GTG2,55062,Natural Gas Fired Combined Cycle,832.7969290736730
+270217_1,NG (Natural Gas),55153_NaturalGasFiredCombinedCycle_STG1,55153,Natural Gas Fired Combined Cycle,831.1875798072930
+270209_1,NG (Natural Gas),55137_NaturalGasFiredCombinedCycle_CTG2,55137,Natural Gas Fired Combined Cycle,838.862810071475
+270210_1,NG (Natural Gas),55137_NaturalGasFiredCombinedCycle_CTG3,55137,Natural Gas Fired Combined Cycle,838.862810071475
+230282_1,LIG (Lignite Coal),7030_ConventionalSteamCoal_2,7030,Conventional Steam Coal,2515.155378689220
+170554_1,NG (Natural Gas),55097_NaturalGasFiredCombinedCycle_CTG3,55097,Natural Gas Fired Combined Cycle,833.8917064786300
+210341_1,NG (Natural Gas),58001_NaturalGasFiredCombinedCycle_CTG-4,58001,Natural Gas Fired Combined Cycle,848.1892185919150
+240210_1,WND (Wind),55968_OnshoreWindTurbine_WTG1,55968,Onshore Wind Turbine,0.0
+230281_1,LIG (Lignite Coal),7030_ConventionalSteamCoal_1,7030,Conventional Steam Coal,2515.155378689220
+150490_1,NG (Natural Gas),55320_NaturalGasFiredCombinedCycle_GT2,55320,Natural Gas Fired Combined Cycle,853.3723845189640
+190182_1,WND (Wind),60366_OnshoreWindTurbine_OSWF,60366,Onshore Wind Turbine,0.0
+140340_1,NG (Natural Gas),7900_NaturalGasFiredCombinedCycle_5C,7900,Natural Gas Fired Combined Cycle,967.9424243172340
+190167_1,WND (Wind),59733_OnshoreWindTurbine_GPII,59733,Onshore Wind Turbine,0.0
+220199_1,NG (Natural Gas),58471_NaturalGasFiredCombustionTurbine_CTG2,58471,Natural Gas Fired Combustion Turbine,1314.6930617275900
+190134_1,WND (Wind),58681_OnshoreWindTurbine_RT661,58681,Onshore Wind Turbine,0.0
+190118_1,WND (Wind),56773_OnshoreWindTurbine_1,56773,Onshore Wind Turbine,0.0
+190169_1,WND (Wind),59734_OnshoreWindTurbine_BFW,59734,Onshore Wind Turbine,0.0
+180119_1,WND (Wind),57260_OnshoreWindTurbine_1,57260,Onshore Wind Turbine,0.0
+240282_1,WND (Wind),57153_OnshoreWindTurbine_1,57153,Onshore Wind Turbine,0.0
+240307_1,WND (Wind),61001_OnshoreWindTurbine_WT1,61001,Onshore Wind Turbine,0.0
+150520_1,WND (Wind),59732_OnshoreWindTurbine_GPI,59732,Onshore Wind Turbine,0.0
+150505_1,WND (Wind),57981_OnshoreWindTurbine_GEN1,57981,Onshore Wind Turbine,0.0
+220234_1,SUN (Solar),60581_SolarPhotovoltaic_UCTX,60581,Solar Photovoltaic,0.0
+210346_1,WND (Wind),58321_OnshoreWindTurbine_1,58321,Onshore Wind Turbine,0.0
+160260_1,NG (Natural Gas),55313_OtherGases_STG,55313,Other Gases,1046.5869493861100
+220178_1,WND (Wind),56779_OnshoreWindTurbine_1,56779,Onshore Wind Turbine,0.0
+240260_1,WND (Wind),56763_OnshoreWindTurbine_1,56763,Onshore Wind Turbine,0.0
+150486_1,NG (Natural Gas),55230_NaturalGasFiredCombinedCycle_CT4,55230,Natural Gas Fired Combined Cycle,863.9534000626590
+240291_1,WND (Wind),60217_OnshoreWindTurbine_RKSP,60217,Onshore Wind Turbine,0.0
+250371_1,NG (Natural Gas),55226_NaturalGasFiredCombinedCycle_GT3,55226,Natural Gas Fired Combined Cycle,838.4967365938270
+140362_1,NG (Natural Gas),55168_NaturalGasFiredCombinedCycle_1,55168,Natural Gas Fired Combined Cycle,935.1734831937100
+200174_1,NG (Natural Gas),55545_NaturalGasFiredCombinedCycle_CTG2,55545,Natural Gas Fired Combined Cycle,872.2444669314220
+140363_1,NG (Natural Gas),55168_NaturalGasFiredCombinedCycle_2,55168,Natural Gas Fired Combined Cycle,935.1734831937100
+160259_1,NG (Natural Gas),55313_NaturalGasFiredCombinedCycle_CTG2,55313,Natural Gas Fired Combined Cycle,1046.5869493861100
+190177_1,WND (Wind),60270_OnshoreWindTurbine_WT1,60270,Onshore Wind Turbine,0.0
+270221_1,NG (Natural Gas),55153_NaturalGasFiredCombinedCycle_CTG3,55153,Natural Gas Fired Combined Cycle,831.1875798072930
+270219_1,NG (Natural Gas),55153_NaturalGasFiredCombinedCycle_CTG1,55153,Natural Gas Fired Combined Cycle,831.1875798072930
+111347_1,NG (Natural Gas),55464_NaturalGasFiredCombinedCycle_STG1,55464,Natural Gas Fired Combined Cycle,1227.253239819680
+250365_1,NG (Natural Gas),55132_NaturalGasFiredCombinedCycle_GTG3,55132,Natural Gas Fired Combined Cycle,867.4615122184950
+250363_1,NG (Natural Gas),55132_NaturalGasFiredCombinedCycle_GTG1,55132,Natural Gas Fired Combined Cycle,867.4615122184950
+150481_1,NG (Natural Gas),55230_NaturalGasFiredCombinedCycle_ST1,55230,Natural Gas Fired Combined Cycle,863.9534000626590
+200172_1,NG (Natural Gas),55545_NaturalGasFiredCombinedCycle_STG1,55545,Natural Gas Fired Combined Cycle,872.2444669314220
+130364_1,NG (Natural Gas),55480_NaturalGasFiredCombinedCycle_U4,55480,Natural Gas Fired Combined Cycle,852.6020305821020
+220195_1,WND (Wind),57415_OnshoreWindTurbine_1,57415,Onshore Wind Turbine,0.0
+150478_1,NG (Natural Gas),55139_NaturalGasFiredCombinedCycle_CTG2,55139,Natural Gas Fired Combined Cycle,895.2716193969870
+260213_1,NG (Natural Gas),55091_NaturalGasFiredCombinedCycle_STK6,55091,Natural Gas Fired Combined Cycle,899.2126309111640
+111340_1,NG (Natural Gas),55357_NaturalGasFiredCombinedCycle_CTG1,55357,Natural Gas Fired Combined Cycle,870.7429128480550
+160266_1,NG (Natural Gas),56708_NaturalGasSteamTurbine_G2101,56708,Natural Gas Steam Turbine,1581.4116489469500
+150485_1,NG (Natural Gas),55230_NaturalGasFiredCombinedCycle_CT3,55230,Natural Gas Fired Combined Cycle,863.9534000626590
+220183_1,WND (Wind),56920_OnshoreWindTurbine_1,56920,Onshore Wind Turbine,0.0
+210328_1,NG (Natural Gas),55172_NaturalGasFiredCombinedCycle_GT-1,55172,Natural Gas Fired Combined Cycle,820.7693901397300
+160249_1,NG (Natural Gas),55086_NaturalGasFiredCombinedCycle_GT1A,55086,Natural Gas Fired Combined Cycle,1164.6595380492200
+111336_1,NG (Natural Gas),55327_NaturalGasFiredCombinedCycle_CTG3,55327,Natural Gas Fired Combined Cycle,946.3876846156430
+160250_1,NG (Natural Gas),55086_NaturalGasFiredCombinedCycle_GT1B,55086,Natural Gas Fired Combined Cycle,1164.6595380492200
+140358_1,NG (Natural Gas),55154_NaturalGasFiredCombinedCycle_CTA,55154,Natural Gas Fired Combined Cycle,853.0161777560590
+210340_1,NG (Natural Gas),58001_NaturalGasFiredCombinedCycle_CTG-3,58001,Natural Gas Fired Combined Cycle,848.1892185919150
+130366_1,NG (Natural Gas),55480_NaturalGasFiredCombinedCycle_U2,55480,Natural Gas Fired Combined Cycle,852.6020305821020
+111374_1,NG (Natural Gas),56806_NaturalGasFiredCombinedCycle_42,56806,Natural Gas Fired Combined Cycle,904.7856184821290
+170523_1,NG (Natural Gas),3576_NaturalGasSteamTurbine_3,3576,Natural Gas Steam Turbine,1543.1926968462200
+160253_1,NG (Natural Gas),55206_NaturalGasFiredCombinedCycle_CT1,55206,Natural Gas Fired Combined Cycle,1142.5778691572000
+120446_1,NG (Natural Gas),3612_NaturalGasSteamTurbine_1,3612,Natural Gas Steam Turbine,1336.7747387067100
+140333_1,NG (Natural Gas),3601_NaturalGasSteamTurbine_2,3601,Natural Gas Steam Turbine,1295.846202885110
+140332_1,NG (Natural Gas),3601_NaturalGasSteamTurbine_1,3601,Natural Gas Steam Turbine,1295.846202885110
+111322_1,NG (Natural Gas),55187_NaturalGasFiredCombinedCycle_ST1,55187,Natural Gas Fired Combined Cycle,1235.0748898652200
+150510_1,WND (Wind),58372_OnshoreWindTurbine_GEN1,58372,Onshore Wind Turbine,0.0
+240225_1,WND (Wind),56311_OnshoreWindTurbine_SW3,56311,Onshore Wind Turbine,0.0
+111352_1,NG (Natural Gas),55464_NaturalGasFiredCombinedCycle_CTG6,55464,Natural Gas Fired Combined Cycle,1227.253239819680
+270220_1,NG (Natural Gas),55153_NaturalGasFiredCombinedCycle_CTG2,55153,Natural Gas Fired Combined Cycle,831.1875798072930
+160255_1,NG (Natural Gas),55206_NaturalGasFiredCombinedCycle_ST1,55206,Natural Gas Fired Combined Cycle,1142.5778691572000
+111246_1,NG (Natural Gas),10692_NaturalGasFiredCombustionTurbine_GEN5,10692,Natural Gas Fired Combustion Turbine,1513.6924322552700
+160194_1,NG (Natural Gas),3443_NaturalGasFiredCombinedCycle_7,3443,Natural Gas Fired Combined Cycle,922.6339110251950
+190114_1,WND (Wind),56506_OnshoreWindTurbine_SCW,56506,Onshore Wind Turbine,0.0
+250364_1,NG (Natural Gas),55132_NaturalGasFiredCombinedCycle_GTG2,55132,Natural Gas Fired Combined Cycle,867.4615122184950
+170552_1,NG (Natural Gas),55097_NaturalGasFiredCombinedCycle_CTG1,55097,Natural Gas Fired Combined Cycle,833.8917064786300
+220147_1,NG (Natural Gas),55215_NaturalGasFiredCombinedCycle_CTG4,55215,Natural Gas Fired Combined Cycle,830.6789607640070
+111333_1,NG (Natural Gas),55327_NaturalGasFiredCombinedCycle_STG1,55327,Natural Gas Fired Combined Cycle,946.3876846156430
+240241_1,WND (Wind),56592_OnshoreWindTurbine_CH1,56592,Onshore Wind Turbine,0.0
+220145_1,NG (Natural Gas),55215_NaturalGasFiredCombinedCycle_CTG2,55215,Natural Gas Fired Combined Cycle,830.6789607640070
+150531_1,WND (Wind),60502_OnshoreWindTurbine_GEN1,60502,Onshore Wind Turbine,0.0
+140336_1,NG (Natural Gas),4937_NaturalGasFiredCombinedCycle_CT-1,4937,Natural Gas Fired Combined Cycle,790.5038820774780
+220169_1,WND (Wind),56394_OnshoreWindTurbine_1,56394,Onshore Wind Turbine,0.0
+130353_1,NG (Natural Gas),3453_NaturalGasSteamTurbine_6,3453,Natural Gas Steam Turbine,1484.3167782942300
+220181_1,WND (Wind),56783_OnshoreWindTurbine_1,56783,Onshore Wind Turbine,0.0
+250369_1,NG (Natural Gas),55226_NaturalGasFiredCombinedCycle_GT1,55226,Natural Gas Fired Combined Cycle,838.4967365938270
+240217_1,WND (Wind),56240_OnshoreWindTurbine_1,56240,Onshore Wind Turbine,0.0
+240269_1,WND (Wind),56775_OnshoreWindTurbine_1,56775,Onshore Wind Turbine,0.0
+220174_1,WND (Wind),56644_OnshoreWindTurbine_1,56644,Onshore Wind Turbine,0.0
+150496_1,WND (Wind),57156_OnshoreWindTurbine_BC,57156,Onshore Wind Turbine,0.0
+220176_1,WND (Wind),56776_OnshoreWindTurbine_1,56776,Onshore Wind Turbine,0.0
+170565_1,NG (Natural Gas),58005_NaturalGasFiredCombinedCycle_CTG-2,58005,Natural Gas Fired Combined Cycle,844.1883500375480
+220230_1,SUN (Solar),60436_SolarPhotovoltaic_1,60436,Solar Photovoltaic,0.0
+111404_1,NG (Natural Gas),60468_NaturalGasFiredCombustionTurbine_GT-1,60468,Natural Gas Fired Combustion Turbine,1514.468722262300
+150484_1,NG (Natural Gas),55230_NaturalGasFiredCombinedCycle_CT2,55230,Natural Gas Fired Combined Cycle,863.9534000626590
+170553_1,NG (Natural Gas),55097_NaturalGasFiredCombinedCycle_CTG2,55097,Natural Gas Fired Combined Cycle,833.8917064786300
+170551_1,NG (Natural Gas),55097_NaturalGasFiredCombinedCycle_STG2,55097,Natural Gas Fired Combined Cycle,833.8917064786300
+220206_1,SUN (Solar),59206_SolarPhotovoltaic_OCIA6,59206,Solar Photovoltaic,0.0
+220186_1,WND (Wind),56921_OnshoreWindTurbine_1,56921,Onshore Wind Turbine,0.0
+140361_1,NG (Natural Gas),55168_NaturalGasFiredCombinedCycle_3,55168,Natural Gas Fired Combined Cycle,935.1734831937100
+270215_1,NG (Natural Gas),55144_NaturalGasFiredCombinedCycle_U2,55144,Natural Gas Fired Combined Cycle,895.7279129464840
+130356_1,NG (Natural Gas),55223_NaturalGasFiredCombinedCycle_ST1,55223,Natural Gas Fired Combined Cycle,860.5013639764690
+240219_1,WND (Wind),56270_OnshoreWindTurbine_1,56270,Onshore Wind Turbine,0.0
+170564_1,NG (Natural Gas),58005_NaturalGasFiredCombinedCycle_CTG-1,58005,Natural Gas Fired Combined Cycle,844.1883500375480
+210330_1,NG (Natural Gas),55172_NaturalGasFiredCombinedCycle_GT-3,55172,Natural Gas Fired Combined Cycle,820.7693901397300
+150507_1,WND (Wind),58080_OnshoreWindTurbine_1,58080,Onshore Wind Turbine,0.0
+240261_1,WND (Wind),56763_OnshoreWindTurbine_4,56763,Onshore Wind Turbine,0.0
+111270_1,NG (Natural Gas),50815_NaturalGasFiredCombinedCycle_GEN6,50815,Natural Gas Fired Combined Cycle,1368.5917843004300
+160258_1,NG (Natural Gas),55313_NaturalGasFiredCombinedCycle_CTG1,55313,Natural Gas Fired Combined Cycle,1046.5869493861100
+160195_1,NG (Natural Gas),3443_NaturalGasFiredCombinedCycle_5,3443,Natural Gas Fired Combined Cycle,922.6339110251950
+230285_1,NG (Natural Gas),55062_NaturalGasFiredCombinedCycle_GTG1,55062,Natural Gas Fired Combined Cycle,832.7969290736730
+200207_1,WND (Wind),60059_OnshoreWindTurbine_1,60059,Onshore Wind Turbine,0.0
+150512_1,WND (Wind),58838_OnshoreWindTurbine_KW1,58838,Onshore Wind Turbine,0.0
+230276_1,NG (Natural Gas),6243_NaturalGasSteamTurbine_1,6243,Natural Gas Steam Turbine,1635.6493712590400
+111356_1,NG (Natural Gas),55470_NaturalGasFiredCombinedCycle_TR2,55470,Natural Gas Fired Combined Cycle,1203.454292119990
+111309_1,NG (Natural Gas),55015_NaturalGasFiredCombustionTurbine_GEN4,55015,Natural Gas Fired Combustion Turbine,1729.4088419514000
+111307_1,NG (Natural Gas),55015_NaturalGasFiredCombustionTurbine_GEN2,55015,Natural Gas Fired Combustion Turbine,1729.4088419514000
+111321_1,NG (Natural Gas),55187_NaturalGasFiredCombinedCycle_GT4,55187,Natural Gas Fired Combined Cycle,1235.0748898652200
+250372_1,NG (Natural Gas),55226_NaturalGasFiredCombinedCycle_GT4,55226,Natural Gas Fired Combined Cycle,838.4967365938270
+170524_1,NG (Natural Gas),3576_NaturalGasSteamTurbine_2,3576,Natural Gas Steam Turbine,1543.1926968462200
+111360_1,NG (Natural Gas),56152_NaturalGasFiredCombinedCycle_CTG1,56152,Natural Gas Fired Combined Cycle,1060.3658235639000
+210329_1,NG (Natural Gas),55172_NaturalGasFiredCombinedCycle_GT-2,55172,Natural Gas Fired Combined Cycle,820.7693901397300
+150463_1,NG (Natural Gas),54817_NaturalGasFiredCombinedCycle_ST-1,54817,Natural Gas Fired Combined Cycle,951.851679779604
+111283_1,NG (Natural Gas),52088_NaturalGasFiredCombinedCycle_GEN4,52088,Natural Gas Fired Combined Cycle,1591.3418665651100
+111282_1,NG (Natural Gas),52088_NaturalGasFiredCombinedCycle_GEN3,52088,Natural Gas Fired Combined Cycle,1591.3418665651100
+111281_1,NG (Natural Gas),52088_NaturalGasFiredCombinedCycle_GEN2,52088,Natural Gas Fired Combined Cycle,1591.3418665651100
+150436_1,NG (Natural Gas),3628_NaturalGasFiredCombustionTurbine_5,3628,Natural Gas Fired Combustion Turbine,1527.5860032322700
+111318_1,NG (Natural Gas),55187_NaturalGasFiredCombinedCycle_GT1,55187,Natural Gas Fired Combined Cycle,1235.0748898652200
+111350_1,NG (Natural Gas),55464_NaturalGasFiredCombinedCycle_CTG3,55464,Natural Gas Fired Combined Cycle,1227.253239819680
+111355_1,NG (Natural Gas),55470_NaturalGasFiredCombinedCycle_TR1,55470,Natural Gas Fired Combined Cycle,1203.454292119990
+230287_1,NG (Natural Gas),55062_NaturalGasFiredCombinedCycle_GTG3,55062,Natural Gas Fired Combined Cycle,832.7969290736730
+240250_1,WND (Wind),56649_OnshoreWindTurbine_1,56649,Onshore Wind Turbine,0.0
+150534_1,WND (Wind),60983_OnshoreWindTurbine_BWIND,60983,Onshore Wind Turbine,0.0
+111280_1,NG (Natural Gas),52088_NaturalGasFiredCombinedCycle_GEN1,52088,Natural Gas Fired Combined Cycle,1591.3418665651100
+120512_1,SUN (Solar),59205_SolarPhotovoltaic_OCIA5,59205,Solar Photovoltaic,0.0
+240288_1,SUN (Solar),59207_SolarPhotovoltaic_OCIA7,59207,Solar Photovoltaic,0.0
+220256_1,SUN (Solar),62448_SolarPhotovoltaic_LAP,62448,Solar Photovoltaic,0.0
+220253_1,SUN (Solar),62415_SolarPhotovoltaic_WOTP1,62415,Solar Photovoltaic,0.0
+220228_1,SUN (Solar),60372_SolarPhotovoltaic_LSPV1,60372,Solar Photovoltaic,0.0
+120493_1,WND (Wind),58000_OnshoreWindTurbine_ANA,58000,Onshore Wind Turbine,0.0
+240214_1,WND (Wind),56212_OnshoreWindTurbine_SW2,56212,Onshore Wind Turbine,0.0
+200173_1,NG (Natural Gas),55545_NaturalGasFiredCombinedCycle_CTG1,55545,Natural Gas Fired Combined Cycle,872.2444669314220
+220163_1,NG (Natural Gas),56349_NaturalGasFiredCombinedCycle_ST2,56349,Natural Gas Fired Combined Cycle,1006.0915148454700
+220162_1,NG (Natural Gas),56349_NaturalGasFiredCombinedCycle_ST1,56349,Natural Gas Fired Combined Cycle,1006.0915148454700
+111365_1,NG (Natural Gas),56350_NaturalGasFiredCombinedCycle_ST2,56350,Natural Gas Fired Combined Cycle,990.9730145769560
+111364_1,NG (Natural Gas),56350_NaturalGasFiredCombinedCycle_ST1,56350,Natural Gas Fired Combined Cycle,990.9730145769560
+250370_1,NG (Natural Gas),55226_NaturalGasFiredCombinedCycle_GT2,55226,Natural Gas Fired Combined Cycle,838.4967365938270
+200204_1,WND (Wind),59712_OnshoreWindTurbine_SRWI,59712,Onshore Wind Turbine,0.0
+160267_1,NG (Natural Gas),56708_NaturalGasSteamTurbine_G2201,56708,Natural Gas Steam Turbine,1581.4116489469500
+111288_1,NG (Natural Gas),52120_NaturalGasFiredCombinedCycle_G-65,52120,Natural Gas Fired Combined Cycle,1214.7837644959700
+111308_1,NG (Natural Gas),55015_NaturalGasFiredCombustionTurbine_GEN3,55015,Natural Gas Fired Combustion Turbine,1729.4088419514000
+111191_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_4,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+220191_2,WND (Wind),56961_OnshoreWindTurbine_VESTA,56961,Onshore Wind Turbine,0.0
+111301_1,NG (Natural Gas),54676_NaturalGasFiredCombinedCycle_G84,54676,Natural Gas Fired Combined Cycle,1184.120300774830
+270208_1,NG (Natural Gas),55137_NaturalGasFiredCombinedCycle_CTG1,55137,Natural Gas Fired Combined Cycle,838.862810071475
+180121_1,WND (Wind),58021_OnshoreWindTurbine_1,58021,Onshore Wind Turbine,0.0
+250368_1,NG (Natural Gas),55226_NaturalGasFiredCombinedCycle_ST6,55226,Natural Gas Fired Combined Cycle,838.4967365938270
+111348_1,NG (Natural Gas),55464_NaturalGasFiredCombinedCycle_CTG1,55464,Natural Gas Fired Combined Cycle,1227.253239819680
+220146_1,NG (Natural Gas),55215_NaturalGasFiredCombinedCycle_CTG3,55215,Natural Gas Fired Combined Cycle,830.6789607640070
+130361_1,NG (Natural Gas),55480_NaturalGasFiredCombinedCycle_U1,55480,Natural Gas Fired Combined Cycle,852.6020305821020
+111247_1,NG (Natural Gas),10692_NaturalGasFiredCombustionTurbine_GEN4,10692,Natural Gas Fired Combustion Turbine,1513.6924322552700
+220171_1,WND (Wind),56479_OnshoreWindTurbine_2,56479,Onshore Wind Turbine,0.0
+111349_1,NG (Natural Gas),55464_NaturalGasFiredCombinedCycle_CTG2,55464,Natural Gas Fired Combined Cycle,1227.253239819680
+210331_1,NG (Natural Gas),55172_NaturalGasFiredCombinedCycle_ST-4,55172,Natural Gas Fired Combined Cycle,820.7693901397300
+150435_1,NG (Natural Gas),3628_NaturalGasFiredCombustionTurbine_4,3628,Natural Gas Fired Combustion Turbine,1527.5860032322700
+111357_1,NG (Natural Gas),55470_NaturalGasFiredCombinedCycle_TR3,55470,Natural Gas Fired Combined Cycle,1203.454292119990
+140337_1,NG (Natural Gas),4937_NaturalGasFiredCombinedCycle_CT-2,4937,Natural Gas Fired Combined Cycle,790.5038820774780
+220151_1,WND (Wind),55747_OnshoreWindTurbine_NWP2,55747,Onshore Wind Turbine,0.0
+220156_1,WND (Wind),55796_OnshoreWindTurbine_1,55796,Onshore Wind Turbine,0.0
+111221_1,NG (Natural Gas),7325_NaturalGasFiredCombustionTurbine_2,7325,Natural Gas Fired Combustion Turbine,1561.72835887622
+240230_1,WND (Wind),56372_OnshoreWindTurbine_SW5,56372,Onshore Wind Turbine,0.0
+250374_1,WDS (Wood/Wood Waste Solids),55708_Wood/WoodWasteBiomass_STG4,55708,Wood/Wood Waste Biomass,8907.110888106790
+111312_1,NG (Natural Gas),55047_NaturalGasFiredCombinedCycle_CTG1,55047,Natural Gas Fired Combined Cycle,887.6618692917330
+170542_1,NG (Natural Gas),50109_NaturalGasFiredCombinedCycle_GEN2,50109,Natural Gas Fired Combined Cycle,1045.1845879041500
+240255_1,WND (Wind),56754_OnshoreWindTurbine_1,56754,Onshore Wind Turbine,0.0
+180128_1,WND (Wind),59654_OnshoreWindTurbine_1,59654,Onshore Wind Turbine,0.0
+220153_1,WND (Wind),55795_OnshoreWindTurbine_1,55795,Onshore Wind Turbine,0.0
+270222_1,NG (Natural Gas),55153_NaturalGasFiredCombinedCycle_CTG4,55153,Natural Gas Fired Combined Cycle,831.1875798072930
+160251_1,NG (Natural Gas),55086_NaturalGasFiredCombinedCycle_STG,55086,Natural Gas Fired Combined Cycle,1164.6595380492200
+111231_1,NG (Natural Gas),10298_NaturalGasFiredCombustionTurbine_GT1,10298,Natural Gas Fired Combustion Turbine,1672.50550292608
+111330_1,NG (Natural Gas),55311_NaturalGasFiredCombustionTurbine_GEN1,55311,Natural Gas Fired Combustion Turbine,1558.6401081955400
+170522_1,NG (Natural Gas),3576_NaturalGasSteamTurbine_1,3576,Natural Gas Steam Turbine,1543.1926968462200
+240285_1,WND (Wind),57303_OnshoreWindTurbine_LWG2,57303,Onshore Wind Turbine,0.0
+240284_1,WND (Wind),57303_OnshoreWindTurbine_LWG1,57303,Onshore Wind Turbine,0.0
+111233_1,NG (Natural Gas),10298_NaturalGasFiredCombustionTurbine_GT3,10298,Natural Gas Fired Combustion Turbine,1672.50550292608
+111267_1,OG (Other Gas),50304_OtherGases_GEN4,50304,Other Gases,1679.1966876794600
+111354_1,NG (Natural Gas),55470_NaturalGasFiredCombinedCycle_ST1,55470,Natural Gas Fired Combined Cycle,1203.454292119990
+111382_1,NG (Natural Gas),58378_NaturalGasFiredCombustionTurbine_GT2,58378,Natural Gas Fired Combustion Turbine,2486.8586196953800
+111287_1,NG (Natural Gas),52120_NaturalGasFiredCombinedCycle_G-67,52120,Natural Gas Fired Combined Cycle,1214.7837644959700
+111304_1,NG (Natural Gas),54676_NaturalGasFiredCombinedCycle_G83,54676,Natural Gas Fired Combined Cycle,1184.120300774830
+111302_1,NG (Natural Gas),54676_NaturalGasFiredCombinedCycle_G81,54676,Natural Gas Fired Combined Cycle,1184.120300774830
+160221_1,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_TBG6,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+160218_1,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_TBG3,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+160217_1,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_TBG2,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+160216_1,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_TBG1,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+111368_1,NG (Natural Gas),56350_NaturalGasFiredCombinedCycle_CT2A,56350,Natural Gas Fired Combined Cycle,990.9730145769560
+111367_1,NG (Natural Gas),56350_NaturalGasFiredCombinedCycle_CT1B,56350,Natural Gas Fired Combined Cycle,990.9730145769560
+111366_1,NG (Natural Gas),56350_NaturalGasFiredCombinedCycle_CT1A,56350,Natural Gas Fired Combined Cycle,990.9730145769560
+220133_1,NG (Natural Gas),52176_NaturalGasFiredCombinedCycle_GEN2,52176,Natural Gas Fired Combined Cycle,1086.3290443307300
+150445_1,NG (Natural Gas),8063_NaturalGasFiredCombustionTurbine_CT1,8063,Natural Gas Fired Combustion Turbine,1624.162993749930
+220132_1,NG (Natural Gas),52176_NaturalGasFiredCombinedCycle_GEN1,52176,Natural Gas Fired Combined Cycle,1086.3290443307300
+111306_1,NG (Natural Gas),55015_NaturalGasFiredCombustionTurbine_GEN1,55015,Natural Gas Fired Combustion Turbine,1729.4088419514000
+111220_1,NG (Natural Gas),7325_NaturalGasFiredCombustionTurbine_1,7325,Natural Gas Fired Combustion Turbine,1561.72835887622
+111190_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_3,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+111275_1,NG (Natural Gas),50815_NaturalGasFiredCombinedCycle_GEN4,50815,Natural Gas Fired Combined Cycle,1368.5917843004300
+220164_1,NG (Natural Gas),56349_NaturalGasFiredCombinedCycle_CT1A,56349,Natural Gas Fired Combined Cycle,1006.0915148454700
+111268_1,OG (Other Gas),50304_OtherGases_GEN5,50304,Other Gases,1679.1966876794600
+111272_1,NG (Natural Gas),50815_NaturalGasFiredCombinedCycle_GEN1,50815,Natural Gas Fired Combined Cycle,1368.5917843004300
+240256_1,WND (Wind),56754_OnshoreWindTurbine_2,56754,Onshore Wind Turbine,0.0
+111254_1,NG (Natural Gas),50043_NaturalGasFiredCombinedCycle_GT3,50043,Natural Gas Fired Combined Cycle,1229.2139645821100
+111296_1,NG (Natural Gas),52132_NaturalGasFiredCombinedCycle_GEN2,52132,Natural Gas Fired Combined Cycle,1543.8765720281800
+111295_1,NG (Natural Gas),52132_NaturalGasFiredCombinedCycle_GEN1,52132,Natural Gas Fired Combined Cycle,1543.8765720281800
+111276_1,NG (Natural Gas),50815_NaturalGasFiredCombinedCycle_GEN5,50815,Natural Gas Fired Combined Cycle,1368.5917843004300
+220167_1,NG (Natural Gas),56349_NaturalGasFiredCombinedCycle_CT2B,56349,Natural Gas Fired Combined Cycle,1006.0915148454700
+150517_1,WND (Wind),59238_OnshoreWindTurbine_WND2,59238,Onshore Wind Turbine,0.0
+130352_1,NG (Natural Gas),3453_NaturalGasSteamTurbine_7,3453,Natural Gas Steam Turbine,1484.3167782942300
+111251_1,NG (Natural Gas),50043_NaturalGasFiredCombinedCycle_GT1,50043,Natural Gas Fired Combined Cycle,1229.2139645821100
+111358_1,NG (Natural Gas),55470_NaturalGasFiredCombinedCycle_ST805,55470,Natural Gas Fired Combined Cycle,1203.454292119990
+111187_1,NG (Natural Gas),3464_NaturalGasFiredCombustionTurbine_83,3464,Natural Gas Fired Combustion Turbine,1792.6855550579700
+220126_1,NG (Natural Gas),3494_NaturalGasFiredCombustionTurbine_CT4,3494,Natural Gas Fired Combustion Turbine,1639.7802531350700
+220125_1,NG (Natural Gas),3494_NaturalGasFiredCombustionTurbine_CT3,3494,Natural Gas Fired Combustion Turbine,1639.7802531350700
+111290_1,NG (Natural Gas),52120_NaturalGasFiredCombinedCycle_G-63,52120,Natural Gas Fired Combined Cycle,1214.7837644959700
+111386_1,NG (Natural Gas),59145_NaturalGasFiredCombustionTurbine_65GTG,59145,Natural Gas Fired Combustion Turbine,1469.5700863684400
+150448_1,NG (Natural Gas),8063_NaturalGasFiredCombustionTurbine_CT4,8063,Natural Gas Fired Combustion Turbine,1624.162993749930
+111286_1,NG (Natural Gas),52120_NaturalGasFiredCombinedCycle_G-66,52120,Natural Gas Fired Combined Cycle,1214.7837644959700
+180111_1,NG (Natural Gas),3439_NaturalGasFiredCombustionTurbine_4,3439,Natural Gas Fired Combustion Turbine,1159.188429435010
+170533_1,NG (Natural Gas),4266_NaturalGasSteamTurbine_5,4266,Natural Gas Steam Turbine,1680.4065501129200
+170532_1,NG (Natural Gas),4266_NaturalGasSteamTurbine_4,4266,Natural Gas Steam Turbine,1680.4065501129200
+111271_1,NG (Natural Gas),50815_NaturalGasFiredCombinedCycle_GEN7,50815,Natural Gas Fired Combined Cycle,1368.5917843004300
+111316_1,NG (Natural Gas),55047_NaturalGasFiredCombinedCycle_STG1,55047,Natural Gas Fired Combined Cycle,887.6618692917330
+150492_1,WND (Wind),56771_OnshoreWindTurbine_1,56771,Onshore Wind Turbine,0.0
+111292_1,NG (Natural Gas),52120_NaturalGasFiredCombustionTurbine_G-37,52120,Natural Gas Fired Combustion Turbine,1214.7837644959700
+220127_1,NG (Natural Gas),3494_NaturalGasFiredCombustionTurbine_CT5,3494,Natural Gas Fired Combustion Turbine,1639.7802531350700
+111203_1,NG (Natural Gas),3469_NaturalGasFiredCombustionTurbine_54,3469,Natural Gas Fired Combustion Turbine,1206.168227378370
+111202_1,NG (Natural Gas),3469_NaturalGasFiredCombustionTurbine_53,3469,Natural Gas Fired Combustion Turbine,1206.168227378370
+111201_1,NG (Natural Gas),3469_NaturalGasFiredCombustionTurbine_52,3469,Natural Gas Fired Combustion Turbine,1206.168227378370
+170541_1,NG (Natural Gas),50109_NaturalGasFiredCombinedCycle_GEN3,50109,Natural Gas Fired Combined Cycle,1045.1845879041500
+160226_1,NG (Natural Gas),10790_NaturalGasFiredCombustionTurbine_GEN1,10790,Natural Gas Fired Combustion Turbine,1420.6581201469500
+160222_1,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_ST2,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+111196_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_43,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+111195_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_42,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+111194_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_41,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+111192_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_33,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+111198_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_31,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+111197_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_44,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+111289_1,NG (Natural Gas),52120_NaturalGasFiredCombinedCycle_G-61,52120,Natural Gas Fired Combined Cycle,1214.7837644959700
+111260_1,NG (Natural Gas),50137_NaturalGasFiredCombustionTurbine_GEN1,50137,Natural Gas Fired Combustion Turbine,1687.6142253502800
+111183_1,NG (Natural Gas),3464_NaturalGasFiredCombustionTurbine_73,3464,Natural Gas Fired Combustion Turbine,1792.6855550579700
+111185_1,NG (Natural Gas),3464_NaturalGasFiredCombustionTurbine_81,3464,Natural Gas Fired Combustion Turbine,1792.6855550579700
+111400_1,NG (Natural Gas),60264_NaturalGasFiredCombustionTurbine_BCGT6,60264,Natural Gas Fired Combustion Turbine,1572.8704756031000
+111398_1,NG (Natural Gas),60264_NaturalGasFiredCombustionTurbine_BCGT4,60264,Natural Gas Fired Combustion Turbine,1572.8704756031000
+111397_1,NG (Natural Gas),60264_NaturalGasFiredCombustionTurbine_BCGT3,60264,Natural Gas Fired Combustion Turbine,1572.8704756031000
+111396_1,NG (Natural Gas),60264_NaturalGasFiredCombustionTurbine_BCGT2,60264,Natural Gas Fired Combustion Turbine,1572.8704756031000
+160219_1,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_TBG4,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+111205_1,NG (Natural Gas),3469_NaturalGasFiredCombustionTurbine_56,3469,Natural Gas Fired Combustion Turbine,1206.168227378370
+140307_1,NG (Natural Gas),3548_NaturalGasFiredCombustionTurbine_GT4,3548,Natural Gas Fired Combustion Turbine,1392.6550016981400
+140304_1,NG (Natural Gas),3548_NaturalGasFiredCombustionTurbine_GT1,3548,Natural Gas Fired Combustion Turbine,1392.6550016981400
+111200_1,NG (Natural Gas),3469_NaturalGasFiredCombustionTurbine_51,3469,Natural Gas Fired Combustion Turbine,1206.168227378370
+150446_1,NG (Natural Gas),8063_NaturalGasFiredCombustionTurbine_CT2,8063,Natural Gas Fired Combustion Turbine,1624.162993749930
+111303_1,NG (Natural Gas),54676_NaturalGasFiredCombinedCycle_G82,54676,Natural Gas Fired Combined Cycle,1184.120300774830
+111188_1,NG (Natural Gas),3464_NaturalGasFiredCombustionTurbine_84,3464,Natural Gas Fired Combustion Turbine,1792.6855550579700
+111199_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_32,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+160297_1,NG (Natural Gas),61242_NaturalGasFiredCombustionTurbine_VP-1,61242,Natural Gas Fired Combustion Turbine,1294.4570992367300
+111186_1,NG (Natural Gas),3464_NaturalGasFiredCombustionTurbine_82,3464,Natural Gas Fired Combustion Turbine,1792.6855550579700
+111361_1,NG (Natural Gas),56152_NaturalGasFiredCombinedCycle_STG1,56152,Natural Gas Fired Combined Cycle,1060.3658235639000
+111234_1,NG (Natural Gas),10298_NaturalGasFiredCombustionTurbine_GT4,10298,Natural Gas Fired Combustion Turbine,1672.50550292608
+170525_1,NG (Natural Gas),3576_NaturalGasFiredCombustionTurbine_4,3576,Natural Gas Fired Combustion Turbine,1543.1926968462200
+160199_1,NG (Natural Gas),3631_NaturalGasFiredCombinedCycle_8,3631,Natural Gas Fired Combined Cycle,1174.797722467510
+111274_1,NG (Natural Gas),50815_NaturalGasFiredCombinedCycle_GEN3,50815,Natural Gas Fired Combined Cycle,1368.5917843004300
+220124_1,NG (Natural Gas),3494_NaturalGasFiredCombustionTurbine_CT2,3494,Natural Gas Fired Combustion Turbine,1639.7802531350700
+160199_2,NG (Natural Gas),3631_NaturalGasFiredCombinedCycle_9,3631,Natural Gas Fired Combined Cycle,1174.797722467510
+120443_1,NG (Natural Gas),3612_NaturalGasFiredCombustionTurbine_7,3612,Natural Gas Fired Combustion Turbine,1336.7747387067100
+111378_1,NG (Natural Gas),57504_NaturalGasFiredCombustionTurbine_CHP1,57504,Natural Gas Fired Combustion Turbine,1219.0969560778900
+111252_1,NG (Natural Gas),50043_NaturalGasFiredCombinedCycle_GT2,50043,Natural Gas Fired Combined Cycle,1229.2139645821100
+140341_2,NG (Natural Gas),7900_NaturalGasFiredCombustionTurbine_SH1,7900,Natural Gas Fired Combustion Turbine,967.9424243172340
+140341_1,NG (Natural Gas),7900_NaturalGasFiredCombustionTurbine_SH2,7900,Natural Gas Fired Combustion Turbine,967.9424243172340
+140343_1,NG (Natural Gas),7900_NaturalGasFiredCombustionTurbine_SH6,7900,Natural Gas Fired Combustion Turbine,967.9424243172340
+140342_2,NG (Natural Gas),7900_NaturalGasFiredCombustionTurbine_SH3,7900,Natural Gas Fired Combustion Turbine,967.9424243172340
+140342_1,NG (Natural Gas),7900_NaturalGasFiredCombustionTurbine_SH4,7900,Natural Gas Fired Combustion Turbine,967.9424243172340
+120443_2,NG (Natural Gas),3612_NaturalGasFiredCombustionTurbine_8,3612,Natural Gas Fired Combustion Turbine,1336.7747387067100
+120436_1,NG (Natural Gas),3609_NaturalGasFiredCombustionTurbine_CGT4,3609,Natural Gas Fired Combustion Turbine,1257.9015474020000
+140305_1,NG (Natural Gas),3548_NaturalGasFiredCombustionTurbine_GT2,3548,Natural Gas Fired Combustion Turbine,1392.6550016981400
+111253_1,NG (Natural Gas),50043_NaturalGasFiredCombinedCycle_ST,50043,Natural Gas Fired Combined Cycle,1229.2139645821100
+160294_1,NG (Natural Gas),60459_NaturalGasFiredCombustionTurbine_PC2,60459,Natural Gas Fired Combustion Turbine,1250.7292763675600
+111402_2,NG (Natural Gas),60460_NaturalGasFiredCombustionTurbine_CH1,60460,Natural Gas Fired Combustion Turbine,1245.3386972957400
+111402_1,NG (Natural Gas),60460_NaturalGasFiredCombustionTurbine_CH2,60460,Natural Gas Fired Combustion Turbine,1245.3386972957400
+160198_1,NG (Natural Gas),3631_NaturalGasFiredCombinedCycle_7,3631,Natural Gas Fired Combined Cycle,1174.797722467510
+140375_2,NG (Natural Gas),56674_NaturalGasFiredCombustionTurbine_CGT3,56674,Natural Gas Fired Combustion Turbine,1204.9426805134800
+140374_2,NG (Natural Gas),56674_NaturalGasFiredCombustionTurbine_CGT1,56674,Natural Gas Fired Combustion Turbine,1204.9426805134800
+140374_1,NG (Natural Gas),56674_NaturalGasFiredCombustionTurbine_CGT2,56674,Natural Gas Fired Combustion Turbine,1204.9426805134800
+170540_1,NG (Natural Gas),50109_NaturalGasFiredCombinedCycle_GEN1,50109,Natural Gas Fired Combined Cycle,1045.1845879041500
+200156_1,NG (Natural Gas),3559_NaturalGasFiredCombinedCycle_9,3559,Natural Gas Fired Combined Cycle,1256.4758580903000
+111204_1,NG (Natural Gas),3469_NaturalGasFiredCombustionTurbine_55,3469,Natural Gas Fired Combustion Turbine,1206.168227378370
+150447_1,NG (Natural Gas),8063_NaturalGasFiredCombustionTurbine_CT3,8063,Natural Gas Fired Combustion Turbine,1624.162993749930
+170529_2,NG (Natural Gas),4195_NaturalGasSteamTurbine_ST3,4195,Natural Gas Steam Turbine,1630.2791214132300
+120503_2,SUN (Solar),58537_SolarPhotovoltaic_1,58537,Solar Photovoltaic,0.0
+170536_1,WAT (Water),6416_ConventionalHydroelectric_2,6416,Conventional Hydroelectric,0.0
+170535_1,WAT (Water),6416_ConventionalHydroelectric_1,6416,Conventional Hydroelectric,0.0
+140375_1,NG (Natural Gas),56674_NaturalGasFiredCombustionTurbine_CGT4,56674,Natural Gas Fired Combustion Turbine,1204.9426805134800
+120507_1,SUN (Solar),58717_SolarPhotovoltaic_1,58717,Solar Photovoltaic,0.0
+111273_1,NG (Natural Gas),50815_NaturalGasFiredCombinedCycle_GEN2,50815,Natural Gas Fired Combined Cycle,1368.5917843004300
+111369_1,NG (Natural Gas),56350_NaturalGasFiredCombinedCycle_CT2B,56350,Natural Gas Fired Combined Cycle,990.9730145769560
+111345_1,NG (Natural Gas),55365_NaturalGasFiredCombustionTurbine_GT4,55365,Natural Gas Fired Combustion Turbine,1466.7924757307500
+111344_1,NG (Natural Gas),55365_NaturalGasFiredCombustionTurbine_GT3,55365,Natural Gas Fired Combustion Turbine,1466.7924757307500
+111343_1,NG (Natural Gas),55365_NaturalGasFiredCombustionTurbine_GT1,55365,Natural Gas Fired Combustion Turbine,1466.7924757307500
+111193_1,NG (Natural Gas),3469_NaturalGasFiredCombinedCycle_34,3469,Natural Gas Fired Combined Cycle,1206.168227378370
+220134_1,NG (Natural Gas),52176_NaturalGasFiredCombinedCycle_GEN3,52176,Natural Gas Fired Combined Cycle,1086.3290443307300
+220165_1,NG (Natural Gas),56349_NaturalGasFiredCombinedCycle_CT1B,56349,Natural Gas Fired Combined Cycle,1006.0915148454700
+220166_1,NG (Natural Gas),56349_NaturalGasFiredCombinedCycle_CT2A,56349,Natural Gas Fired Combined Cycle,1006.0915148454700
+111399_1,NG (Natural Gas),60264_NaturalGasFiredCombustionTurbine_BCGT5,60264,Natural Gas Fired Combustion Turbine,1572.8704756031000
+140306_1,NG (Natural Gas),3548_NaturalGasFiredCombustionTurbine_GT3,3548,Natural Gas Fired Combustion Turbine,1392.6550016981400
+160200_1,NG (Natural Gas),3631_NaturalGasFiredCombinedCycle_10,3631,Natural Gas Fired Combined Cycle,1174.797722467510
+111232_1,NG (Natural Gas),10298_NaturalGasFiredCombustionTurbine_GT2,10298,Natural Gas Fired Combustion Turbine,1672.50550292608
+140328_2,WAT (Water),3600_ConventionalHydroelectric_3,3600,Conventional Hydroelectric,0.0
+140328_1,WAT (Water),3600_ConventionalHydroelectric_2,3600,Conventional Hydroelectric,0.0
+140327_1,WAT (Water),3600_ConventionalHydroelectric_1,3600,Conventional Hydroelectric,0.0
+111237_1,OG (Other Gas),10418_OtherGases_GEN4,10418,Other Gases,2029.0353401938700
+160220_1,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_TBG5,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+140350_1,NG (Natural Gas),50118_NaturalGasFiredCombinedCycle_GEN8,50118,Natural Gas Fired Combined Cycle,1367.4695302923300
+150439_1,NG (Natural Gas),3628_NaturalGasSteamTurbine_1,3628,Natural Gas Steam Turbine,1527.5860032322700
+160223_1,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_ST3,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+200157_1,NG (Natural Gas),3559_NaturalGasFiredCombustionTurbine_10,3559,Natural Gas Fired Combustion Turbine,1256.4758580903000
+120442_2,NG (Natural Gas),3612_NaturalGasFiredCombustionTurbine_5,3612,Natural Gas Fired Combustion Turbine,1336.7747387067100
+140350_2,NG (Natural Gas),50118_NaturalGasFiredCombinedCycle_GEN10,50118,Natural Gas Fired Combined Cycle,1367.4695302923300
+160214_1,NG (Natural Gas),10243_NaturalGasFiredCombustionTurbine_GEN5,10243,Natural Gas Fired Combustion Turbine,1542.532703493030
+160293_1,NG (Natural Gas),60459_NaturalGasFiredCombustionTurbine_PC1,60459,Natural Gas Fired Combustion Turbine,1250.7292763675600
+160228_1,NG (Natural Gas),50026_NaturalGasFiredCombustionTurbine_FR6,50026,Natural Gas Fired Combustion Turbine,1408.0328479044500
+120442_1,NG (Natural Gas),3612_NaturalGasFiredCombustionTurbine_6,3612,Natural Gas Fired Combustion Turbine,1336.7747387067100
+220123_1,NG (Natural Gas),3494_NaturalGasFiredCombustionTurbine_CT1,3494,Natural Gas Fired Combustion Turbine,1639.7802531350700
+150549_1,WND (Wind),62227_OnshoreWindTurbine_WTGS,62227,Onshore Wind Turbine,0.0
+160237_1,NG (Natural Gas),50150_NaturalGasFiredCombinedCycle_GEN8,50150,Natural Gas Fired Combined Cycle,1316.343272859850
+160236_2,NG (Natural Gas),50150_NaturalGasFiredCombinedCycle_GE11,50150,Natural Gas Fired Combined Cycle,1316.343272859850
+140377_1,SUN (Solar),57699_SolarPhotovoltaic_AES1,57699,Solar Photovoltaic,0.0
+111266_2,PUR (Purchased Steam),50304_AllOther_GEN2,50304,All Other,1679.1966876794600
+240202_1,WAT (Water),6128_ConventionalHydroelectric_1,6128,Conventional Hydroelectric,0.0
+111395_1,NG (Natural Gas),60264_NaturalGasFiredCombustionTurbine_BCGT1,60264,Natural Gas Fired Combustion Turbine,1572.8704756031000
+160223_2,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_BO3,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+140351_1,NG (Natural Gas),50118_NaturalGasFiredCombinedCycle_GEN7,50118,Natural Gas Fired Combined Cycle,1367.4695302923300
+160298_1,NG (Natural Gas),61242_NaturalGasFiredCombustionTurbine_VP-2,61242,Natural Gas Fired Combustion Turbine,1294.4570992367300
+111184_1,NG (Natural Gas),3464_NaturalGasFiredCombustionTurbine_74,3464,Natural Gas Fired Combustion Turbine,1792.6855550579700
+140314_1,WAT (Water),3597_ConventionalHydroelectric_2,3597,Conventional Hydroelectric,0.0
+140313_1,WAT (Water),3597_ConventionalHydroelectric_1,3597,Conventional Hydroelectric,0.0
+140343_2,NG (Natural Gas),7900_NaturalGasFiredCombustionTurbine_SH7,7900,Natural Gas Fired Combustion Turbine,967.9424243172340
+120434_2,NG (Natural Gas),3609_NaturalGasFiredCombustionTurbine_CGT1,3609,Natural Gas Fired Combustion Turbine,1257.9015474020000
+111266_1,PUR (Purchased Steam),50304_AllOther_GEN1,50304,All Other,1679.1966876794600
+160246_1,NG (Natural Gas),50475_NaturalGasFiredCombustionTurbine_GEN1,50475,Natural Gas Fired Combustion Turbine,4488.381952046130
+160236_1,NG (Natural Gas),50150_NaturalGasFiredCombinedCycle_GEN6,50150,Natural Gas Fired Combined Cycle,1316.343272859850
+170530_1,NG (Natural Gas),4195_NaturalGasSteamTurbine_ST2,4195,Natural Gas Steam Turbine,1630.2791214132300
+120434_1,NG (Natural Gas),3609_NaturalGasFiredCombustionTurbine_CGT2,3609,Natural Gas Fired Combustion Turbine,1257.9015474020000
+210325_2,WAT (Water),6414_ConventionalHydroelectric_1,6414,Conventional Hydroelectric,0.0
+210325_1,WAT (Water),6414_ConventionalHydroelectric_2,6414,Conventional Hydroelectric,0.0
+230290_1,NG (Natural Gas),58151_NaturalGasFiredCombinedCycle_GTG01,58151,Natural Gas Fired Combined Cycle,1326.8238438608600
+111344_2,NG (Natural Gas),55365_NaturalGasFiredCombustionTurbine_GT2,55365,Natural Gas Fired Combustion Turbine,1466.7924757307500
+140321_1,WAT (Water),3599_ConventionalHydroelectric_2,3599,Conventional Hydroelectric,0.0
+140320_1,WAT (Water),3599_ConventionalHydroelectric_1,3599,Conventional Hydroelectric,0.0
+150454_1,NG (Natural Gas),50127_NaturalGasFiredCombinedCycle_GTC,50127,Natural Gas Fired Combined Cycle,1659.4717906908800
+150452_1,NG (Natural Gas),50127_NaturalGasFiredCombinedCycle_GTB,50127,Natural Gas Fired Combined Cycle,1659.4717906908800
+150451_1,NG (Natural Gas),50127_NaturalGasFiredCombinedCycle_GTA,50127,Natural Gas Fired Combined Cycle,1659.4717906908800
+240202_2,WAT (Water),6128_ConventionalHydroelectric_2,6128,Conventional Hydroelectric,0.0
+150547_1,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_12-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+150546_2,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_10-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+150546_1,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_11-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+150545_2,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_09-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+150544_1,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_06-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+150543_2,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_04-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+150542_1,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_03-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+210319_2,WAT (Water),3595_ConventionalHydroelectric_2,3595,Conventional Hydroelectric,0.0
+200202_2,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG01,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+200202_1,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG02,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+200201_2,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG11,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+200198_2,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG07,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+200198_1,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG08,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+170530_2,NG (Natural Gas),4195_NaturalGasSteamTurbine_ST1,4195,Natural Gas Steam Turbine,1630.2791214132300
+200156_2,NG (Natural Gas),3559_NaturalGasFiredCombinedCycle_6,3559,Natural Gas Fired Combined Cycle,1256.4758580903000
+150541_1,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_02-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+200195_1,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG04,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+200197_1,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG06,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+150541_2,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_01-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+160224_1,NG (Natural Gas),10554_NaturalGasFiredCombinedCycle_ST1,10554,Natural Gas Fired Combined Cycle,859.5254029016460
+140351_2,NG (Natural Gas),50118_NaturalGasFiredCombinedCycle_GEN9,50118,Natural Gas Fired Combined Cycle,1367.4695302923300
+200199_1,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG09,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+210320_1,WAT (Water),3595_ConventionalHydroelectric_3,3595,Conventional Hydroelectric,0.0
+120490_1,SUN (Solar),57197_SolarPhotovoltaic_1,57197,Solar Photovoltaic,0.0
+200195_2,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG03,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+200196_1,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG05,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+200201_1,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG12,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+150543_1,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_05-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+150544_2,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_07-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+230290_2,NG (Natural Gas),58151_NaturalGasFiredCombinedCycle_STG02,58151,Natural Gas Fired Combined Cycle,1326.8238438608600
+180114_1,WAT (Water),6410_ConventionalHydroelectric_1,6410,Conventional Hydroelectric,0.0
+180145_1,SUN (Solar),63027_SolarPhotovoltaic_20,63027,Solar Photovoltaic,0.0
+170583_1,SUN (Solar),61871_SolarPhotovoltaic_GEN1,61871,Solar Photovoltaic,0.0
+170579_1,SUN (Solar),61532_SolarPhotovoltaic_GEN1,61532,Solar Photovoltaic,0.0
+170577_1,SUN (Solar),61524_SolarPhotovoltaic_GEN1,61524,Solar Photovoltaic,0.0
+250376_1,SUN (Solar),61810_SolarPhotovoltaic_GEN1,61810,Solar Photovoltaic,0.0
+120500_1,SUN (Solar),58068_SolarPhotovoltaic_1,58068,Solar Photovoltaic,0.0
+120498_1,SUN (Solar),58027_SolarPhotovoltaic_1,58027,Solar Photovoltaic,0.0
+150554_1,SUN (Solar),63180_SolarPhotovoltaic_TXWHT,63180,Solar Photovoltaic,0.0
+150545_1,NG (Natural Gas),61643_NaturalGasInternalCombustionEngine_08-Dec,61643,Natural Gas Internal Combustion Engine,982.1835133056460
+200200_1,NG (Natural Gas),59391_NaturalGasInternalCombustionEngine_ENG10,59391,Natural Gas Internal Combustion Engine,1049.4577047889200
+140311_2,WAT (Water),3594_ConventionalHydroelectric_2,3594,Conventional Hydroelectric,0.0
+120458_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_15A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120457_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_12A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120457_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_13A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120456_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_11A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120455_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_8A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120454_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_6A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120454_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_7A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120453_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_5A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120452_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_4A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120451_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_24A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120450_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_23A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120449_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_20A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+150454_2,NG (Natural Gas),50127_NaturalGasFiredCombinedCycle_STD,50127,Natural Gas Fired Combined Cycle,1659.4717906908800
+230295_1,NG (Natural Gas),59938_NaturalGasInternalCombustionEngine_UNIT6,59938,Natural Gas Internal Combustion Engine,1118.1970878090100
+230294_2,NG (Natural Gas),59938_NaturalGasInternalCombustionEngine_UNIT3,59938,Natural Gas Internal Combustion Engine,1118.1970878090100
+230293_2,NG (Natural Gas),59938_NaturalGasInternalCombustionEngine_UNIT1,59938,Natural Gas Internal Combustion Engine,1118.1970878090100
+140311_1,WAT (Water),3594_ConventionalHydroelectric_1,3594,Conventional Hydroelectric,0.0
+170528_1,NG (Natural Gas),4195_NaturalGasInternalCombustionEngine_EP,4195,Natural Gas Internal Combustion Engine,1630.2791214132300
+180117_1,WAT (Water),6410_ConventionalHydroelectric_3,6410,Conventional Hydroelectric,0.0
+120460_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_19A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120449_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_21A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120450_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_22A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+240278_1,OTH (Other),56981_Batteries_PYRBT,56981,Batteries,0.0
+200162_1,AB (Agricultural By-Products),54338_OtherWasteBiomass_GEND,54338,Other Waste Biomass,84363.66966912530
+120456_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_10A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120459_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_16A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120460_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_18A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+230295_2,NG (Natural Gas),59938_NaturalGasInternalCombustionEngine_UNIT5,59938,Natural Gas Internal Combustion Engine,1118.1970878090100
+120455_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_9A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+240280_1,OTH (Other),56984_Batteries_INABT,56984,Batteries,0.0
+120524_1,OTH (Other),62609_Batteries_BA1,62609,Batteries,0.0
+120459_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_17A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+120458_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_14A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+170529_1,NG (Natural Gas),4195_NaturalGasInternalCombustionEngine_EP3,4195,Natural Gas Internal Combustion Engine,1630.2791214132300
+120461_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_1A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+230294_1,NG (Natural Gas),59938_NaturalGasInternalCombustionEngine_UNIT4,59938,Natural Gas Internal Combustion Engine,1118.1970878090100
+200170_1,NG (Natural Gas),55123_NaturalGasFiredCombinedCycle_STG,55123,Natural Gas Fired Combined Cycle,856.5869678880090
+190203_1,WND (Wind),61970_OnshoreWindTurbine_BSII,61970,Onshore Wind Turbine,0.0
+111264_1,NG (Natural Gas),50229_NaturalGasSteamTurbine_TG2,50229,Natural Gas Steam Turbine,6640.9723055307200
+140331_1,NG (Natural Gas),3601_NaturalGasSteamTurbine_3,3601,Natural Gas Steam Turbine,1295.846202885110
+190187_1,MWH (Electricity use for Energy Storage),60690_Batteries_WBSS,60690,Batteries,0.0
+111262_1,PUR (Purchased Steam),50153_AllOther_STG,50153,All Other,0.0
+190174_1,WND (Wind),60210_OnshoreWindTurbine_CPWF,60210,Onshore Wind Turbine,0.0
+111212_1,NG (Natural Gas),3470_NaturalGasFiredCombustionTurbine_GT1,3470,Natural Gas Fired Combustion Turbine,1262.4217877233500
+190126_1,WND (Wind),58048_OnshoreWindTurbine_1,58048,Onshore Wind Turbine,0.0
+111211_1,SUB (Subbituminous Coal),3470_ConventionalSteamCoal_7,3470,Conventional Steam Coal,2288.2066166956400
+190116_1,WND (Wind),56673_OnshoreWindTurbine_WEC,56673,Onshore Wind Turbine,0.0
+190111_1,WND (Wind),56457_OnshoreWindTurbine_1,56457,Onshore Wind Turbine,0.0
+190109_1,NG (Natural Gas),56233_NaturalGasFiredCombinedCycle_STG,56233,Natural Gas Fired Combined Cycle,938.6924416406910
+190108_2,NG (Natural Gas),56233_NaturalGasFiredCombinedCycle_CT02,56233,Natural Gas Fired Combined Cycle,938.6924416406910
+190108_1,NG (Natural Gas),56233_NaturalGasFiredCombinedCycle_CTG1,56233,Natural Gas Fired Combined Cycle,938.6924416406910
+111335_1,NG (Natural Gas),55327_NaturalGasFiredCombinedCycle_CTG2,55327,Natural Gas Fired Combined Cycle,946.3876846156430
+111210_1,SUB (Subbituminous Coal),3470_ConventionalSteamCoal_8,3470,Conventional Steam Coal,2288.2066166956400
+180115_1,WAT (Water),6410_ConventionalHydroelectric_2,6410,Conventional Hydroelectric,0.0
+180112_1,NG (Natural Gas),3439_NaturalGasFiredCombustionTurbine_5,3439,Natural Gas Fired Combustion Turbine,1159.188429435010
+130355_1,NG (Natural Gas),55223_NaturalGasFiredCombinedCycle_GT1,55223,Natural Gas Fired Combined Cycle,860.5013639764690
+111329_1,WH (Waste Heat),55311_AllOther_GEN2,55311,All Other,1558.6401081955400
+111249_2,NG (Natural Gas),10692_NaturalGasFiredCombustionTurbine_GEN2,10692,Natural Gas Fired Combustion Turbine,1513.6924322552700
+170563_1,NG (Natural Gas),58005_NaturalGasFiredCombinedCycle_STG-1,58005,Natural Gas Fired Combined Cycle,844.1883500375480
+111249_1,NG (Natural Gas),10692_NaturalGasFiredCombustionTurbine_GEN3,10692,Natural Gas Fired Combustion Turbine,1513.6924322552700
+111248_1,NG (Natural Gas),10692_NaturalGasFiredCombustionTurbine_GEN1,10692,Natural Gas Fired Combustion Turbine,1513.6924322552700
+170528_2,NG (Natural Gas),4195_NaturalGasInternalCombustionEngine_EP2,4195,Natural Gas Internal Combustion Engine,1630.2791214132300
+120464_1,SUB (Subbituminous Coal),6181_ConventionalSteamCoal_2,6181,Conventional Steam Coal,2338.085512618570
+160283_1,WND (Wind),58424_OnshoreWindTurbine_1,58424,Onshore Wind Turbine,0.0
+111244_1,NG (Natural Gas),10436_NaturalGasFiredCombustionTurbine_GT44,10436,Natural Gas Fired Combustion Turbine,1398.6972591451800
+111206_1,NG (Natural Gas),3469_NaturalGasFiredCombustionTurbine_GT1,3469,Natural Gas Fired Combustion Turbine,1206.168227378370
+111243_2,NG (Natural Gas),10436_NaturalGasFiredCombustionTurbine_GT42,10436,Natural Gas Fired Combustion Turbine,1398.6972591451800
+160254_1,NG (Natural Gas),55206_NaturalGasFiredCombinedCycle_CT2,55206,Natural Gas Fired Combined Cycle,1142.5778691572000
+111243_1,NG (Natural Gas),10436_NaturalGasFiredCombustionTurbine_GT43,10436,Natural Gas Fired Combustion Turbine,1398.6972591451800
+160243_1,WH (Waste Heat),50404_AllOther_TG2,50404,All Other,0.0
+160242_1,WH (Waste Heat),50404_AllOther_TG3,50404,All Other,0.0
+160239_2,NG (Natural Gas),50150_NaturalGasFiredCombinedCycle_IGT,50150,Natural Gas Fired Combined Cycle,1316.343272859850
+160239_1,NG (Natural Gas),50150_NaturalGasFiredCombinedCycle_GEN9,50150,Natural Gas Fired Combined Cycle,1316.343272859850
+160238_1,NG (Natural Gas),50150_NaturalGasFiredCombinedCycle_GEN5,50150,Natural Gas Fired Combined Cycle,1316.343272859850
+160237_2,NG (Natural Gas),50150_NaturalGasFiredCombinedCycle_GE10,50150,Natural Gas Fired Combined Cycle,1316.343272859850
+111242_2,NG (Natural Gas),10436_NaturalGasFiredCombustionTurbine_GT41,10436,Natural Gas Fired Combustion Turbine,1398.6972591451800
+160233_1,PC (Petroleum Coke),50121_PetroleumCoke_TG2,50121,Petroleum Coke,3288.9224876124200
+160231_1,PC (Petroleum Coke),50121_PetroleumCoke_TG1,50121,Petroleum Coke,3288.9224876124200
+160230_1,WH (Waste Heat),50121_AllOther_PRU,50121,All Other,2812.4223834694700
+120452_2,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_3A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+111242_1,NG (Natural Gas),10436_NaturalGasFiredCombustionTurbine_GT45,10436,Natural Gas Fired Combustion Turbine,1398.6972591451800
+120451_1,NG (Natural Gas),3630_NaturalGasInternalCombustionEngine_2A,3630,Natural Gas Internal Combustion Engine,1075.7031649780400
+270213_1,NG (Natural Gas),55144_NaturalGasFiredCombinedCycle_U4,55144,Natural Gas Fired Combined Cycle,895.7279129464840
+111241_2,NG (Natural Gas),10436_NaturalGasFiredCombustionTurbine_GT38,10436,Natural Gas Fired Combustion Turbine,1398.6972591451800
+160205_1,NG (Natural Gas),4939_NaturalGasFiredCombinedCycle_2,4939,Natural Gas Fired Combined Cycle,932.4778302315890
+160201_1,NG (Natural Gas),3631_NaturalGasFiredCombustionTurbine_2,3631,Natural Gas Fired Combustion Turbine,1174.797722467510
+250362_1,NG (Natural Gas),55132_NaturalGasFiredCombinedCycle_STG1,55132,Natural Gas Fired Combined Cycle,867.4615122184950
+160200_2,NG (Natural Gas),3631_NaturalGasFiredCombustionTurbine_1,3631,Natural Gas Fired Combustion Turbine,1174.797722467510
+111297_1,NG (Natural Gas),52132_NaturalGasFiredCombinedCycle_GEN3,52132,Natural Gas Fired Combined Cycle,1543.8765720281800
+240298_1,SUN (Solar),60789_SolarPhotovoltaic_UNIT1,60789,Solar Photovoltaic,0.0
+120435_1,NG (Natural Gas),3609_NaturalGasFiredCombustionTurbine_CGT3,3609,Natural Gas Fired Combustion Turbine,1257.9015474020000
+111291_1,NG (Natural Gas),52120_NaturalGasFiredCombinedCycle_G-64,52120,Natural Gas Fired Combined Cycle,1214.7837644959700
+240246_1,WND (Wind),56602_OnshoreWindTurbine_SNY1,56602,Onshore Wind Turbine,0.0
+111412_1,SUN (Solar),61875_SolarPhotovoltaic_GEN1,61875,Solar Photovoltaic,0.0
+111410_1,SUN (Solar),61868_SolarPhotovoltaic_GEN1,61868,Solar Photovoltaic,0.0
+240212_1,WND (Wind),56211_OnshoreWindTurbine_SW1,56211,Onshore Wind Turbine,0.0
+111408_1,SUN (Solar),61867_SolarPhotovoltaic_GEN1,61867,Solar Photovoltaic,0.0
+240200_1,NG (Natural Gas),3492_NaturalGasFiredCombustionTurbine_CT6,3492,Natural Gas Fired Combustion Turbine,1672.4259720937900
+240199_1,NG (Natural Gas),3492_NaturalGasFiredCombustionTurbine_CT5,3492,Natural Gas Fired Combustion Turbine,1672.4259720937900
+240198_1,NG (Natural Gas),3492_NaturalGasFiredCombustionTurbine_CT4,3492,Natural Gas Fired Combustion Turbine,1672.4259720937900
+240197_1,NG (Natural Gas),3492_NaturalGasFiredCombustionTurbine_CT3,3492,Natural Gas Fired Combustion Turbine,1672.4259720937900
+240196_1,NG (Natural Gas),3492_NaturalGasFiredCombustionTurbine_CT2,3492,Natural Gas Fired Combustion Turbine,1672.4259720937900
+150523_1,NG (Natural Gas),59812_NaturalGasFiredCombinedCycle_STG6,59812,Natural Gas Fired Combined Cycle,828.1408474079150
+240195_1,NG (Natural Gas),3492_NaturalGasFiredCombustionTurbine_CT1,3492,Natural Gas Fired Combustion Turbine,1672.4259720937900
+230293_1,NG (Natural Gas),59938_NaturalGasInternalCombustionEngine_UNIT2,59938,Natural Gas Internal Combustion Engine,1118.1970878090100
+111223_1,NG (Natural Gas),10154_NaturalGasFiredCombustionTurbine_GEN1,10154,Natural Gas Fired Combustion Turbine,1967.191927413790
+230275_2,NG (Natural Gas),6243_NaturalGasFiredCombustionTurbine_2,6243,Natural Gas Fired Combustion Turbine,1635.6493712590400
+230275_1,NG (Natural Gas),6243_NaturalGasFiredCombustionTurbine_3,6243,Natural Gas Fired Combustion Turbine,1635.6493712590400
+230266_1,SUB (Subbituminous Coal),6179_ConventionalSteamCoal_3,6179,Conventional Steam Coal,2240.576410030400
+230262_1,NG (Natural Gas),3561_NaturalGasFiredCombustionTurbine_7,3561,Natural Gas Fired Combustion Turbine,2086.2900066180100
+220247_1,SUN (Solar),61697_SolarPhotovoltaic_IVORY,61697,Solar Photovoltaic,0.0
+220241_1,SUN (Solar),60989_SolarPhotovoltaic_PV1,60989,Solar Photovoltaic,0.0
+220236_1,SUN (Solar),60682_SolarPhotovoltaic_PEARL,60682,Solar Photovoltaic,0.0
+220225_1,OTH (Other),60123_Batteries_BAT1,60123,Batteries,0.0
+220203_1,SUN (Solar),58710_SolarPhotovoltaic_BRLA,58710,Solar Photovoltaic,0.0
+220201_1,SUN (Solar),58488_SolarPhotovoltaic_1,58488,Solar Photovoltaic,0.0
+220198_1,NG (Natural Gas),58471_NaturalGasFiredCombustionTurbine_CTG1,58471,Natural Gas Fired Combustion Turbine,1314.6930617275900
+111384_1,WH (Waste Heat),58870_AllOther_MG202,58870,All Other,0.0
+220192_1,WND (Wind),56961_OnshoreWindTurbine_GE,56961,Onshore Wind Turbine,0.0
+220191_1,MWH (Electricity use for Energy Storage),56961_Batteries_BATT,56961,Batteries,0.0
+220188_1,WND (Wind),56959_OnshoreWindTurbine_OWF,56959,Onshore Wind Turbine,0.0
+111376_1,NG (Natural Gas),57322_NaturalGasFiredCombustionTurbine_GT01,57322,Natural Gas Fired Combustion Turbine,2673.769541721600
+150438_1,NG (Natural Gas),3628_NaturalGasSteamTurbine_2,3628,Natural Gas Steam Turbine,1527.5860032322700
+220136_1,WND (Wind),54979_OnshoreWindTurbine_WIND,54979,Onshore Wind Turbine,0.0
+150432_1,NG (Natural Gas),3491_NaturalGasSteamTurbine_5,3491,Natural Gas Steam Turbine,1591.776478853510
+210358_1,SUN (Solar),61874_SolarPhotovoltaic_GEN1,61874,Solar Photovoltaic,0.0
+210351_1,SUN (Solar),60774_SolarPhotovoltaic_GEN1,60774,Solar Photovoltaic,0.0
+210338_1,NG (Natural Gas),58001_NaturalGasFiredCombinedCycle_CTG-1,58001,Natural Gas Fired Combined Cycle,848.1892185919150
+210322_1,WAT (Water),3598_ConventionalHydroelectric_1,3598,Conventional Hydroelectric,0.0
+210319_1,WAT (Water),3595_ConventionalHydroelectric_1,3595,Conventional Hydroelectric,0.0
